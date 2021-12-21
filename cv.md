@@ -11,17 +11,15 @@ I’m a beginner frontend developer. My goal is to learn new skills and abilitie
  * Git/Github
  ## Code 
   ```
-  <style>
-.card-hello 
-{
-  border: 2px solid #9C27B0;
-  background-color:#FA7268; 
-  width: 230px; height: 25px;
-padding: 20px;
-color:#FFFFFF;
-font-size: 20px;
-margin: 10px;
+ function multiply(a, b){
+ return a * b;
 }
-</style>
- <div class='card-hello'> block model </div>
 ```
+## Experience
+ * <a href="cv.md"> CV#1. Markdown & Git </a>
+
+## Education 
+ * Belarusian National Technical University
+
+## Languages
+ * Russian
