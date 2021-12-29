@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    min-width: 100vh;
+    background-color: rgb(20, 9, 22);
+   
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+    background-color:rgb(32, 11, 36);
+    height: 10vh;
+    font: italic small-caps bold 16px cursive;
+    }
+a {
+    color: white;
+}
+.avatar{
+        height: 230px;
+        border-radius: 45%;
+        }
+
+.name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font: italic small-caps bold 19px cursive;
+    margin: 20px;
+}
+main{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.container{
+    width: 100%;
+    height: 80%;
+    background-color: rgb(32, 11, 36);
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.contacts{
+    width: 100%;
+    font: italic small-caps bold 19px cursive;
+    color: white;
+    
+}
+.aboutme{
+    font: italic small-caps bold 19px cursive;
+    color: white;
+    padding-left: 65px;
+}
+.skill{
+
+    font: italic small-caps bold 19px cursive;
+    color: white;
+}
+.code{
+    font: italic small-caps bold 19px cursive;
+    color: white;
+    padding-left: 65px;
+    }
+.education{
+    font: italic small-caps bold 19px cursive;
+    color: white;
+    padding-right: 138px;
+}
+.courses{
+    font: italic small-caps bold 19px cursive;
+    color: white;
+}
+.language{
+    font: italic small-caps bold 19px cursive;
+    color: white;
+    padding-left: 65px;
+}
+.testrow
+{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(32, 11, 36);
+}
+h3{
+    color: rgb(122, 112, 112);
+}
+.containerfooter{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    
+}
+.font{
+    font: italic small-caps bold 16px cursive;
+    color: white;
+    padding: 5px;
+}
+a{
+    color: white;
+    font: italic small-caps bold 16px cursive;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.logo{
+    width: 85px;
+    height: 30px;
+}
+.nav{
+    padding: 5px;
+}
