@@ -9,7 +9,7 @@ I’m a beginner frontend developer. My goal is to learn new skills and abilitie
  * HTML
  * CSS
  * Git/Github
- ## Code 
+## Code 
   ```
  function multiply(a, b){
  return a * b;
